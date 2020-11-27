@@ -3,7 +3,7 @@
 ### A web-crawler that can download Google search results as PDF files in your computer
 
 ## Task
-Build a web-crawler that can search any topic people may be interested in, and download each search result as a PDF file to a specific directory.
+Build a web-crawler that can search any topic people may be interested in, and download each search result as a PDF file to a specific directory.  
 For example, people can enter "Pokemon Go" as topic and "/Users/xxx/desktop" as the directory, and then the articles related to Pokemon Go will be saved at their desktop.
 
 ### Run Locally
@@ -13,5 +13,5 @@ For example, people can enter "Pokemon Go" as topic and "/Users/xxx/desktop" as 
 * Run this Command: python main.py
 
 ### Note
-The search engine of Google is constantly revised, and this may cause the program to break down.
+The search engine of Google is constantly revised, and this may cause the program to break down.  
 If the situation happens, please notify me, and I will fix the problems as soon as possible.
