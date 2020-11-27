@@ -50,8 +50,3 @@ for i in range( int(pages) ): # 頁數代表抓取次數
 			break 
 		url = html.xpath( '//*[@id="rso"]/div/div/div[' + str(j+1) + ']/div/div/div[1]/a/@href' ) # 已取得網址與標題
 		pdftrans(file)
-
-				
-
-
-
