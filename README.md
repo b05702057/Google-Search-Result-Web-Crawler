@@ -13,5 +13,5 @@ For example, people can enter "Pokemon Go" as the topic and "/Users/xxx/desktop"
 * Run this Command: python main.py
 
 ### Note
-The search engine of Google is constantly revised, and this may cause the program to break down.  
+The search engine of Google is constantly revised, and this may cause the web-crawler to break down.  
 If the situation happens, please notify me, and I will fix the problems as soon as possible.
