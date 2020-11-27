@@ -1,4 +1,4 @@
-# Google-Search-Result-Web-Crawler
+# Google Search Result Web-Crawler
 
 ### A web-crawler that can download Google search results as PDF files in your computer
 
