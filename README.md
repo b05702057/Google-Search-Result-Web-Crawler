@@ -7,7 +7,7 @@ Build a web-crawler that can search and download any articles people are interes
 For example, people can enter "Pokemon Go" as the topic and "/Users/xxx/desktop" as the directory, and then the articles related to Pokemon Go will be saved at their desktop.
 
 ### Run Locally
-* Run this Command: git clone https://github.com/b05702057/Google-Search-Result-Web-Crawler.git
+* Run this Command: git clone <https://github.com/b05702057/Google-Search-Result-Web-Crawler.git>
 * Change directory to the where the file "main.py" is saved
 * Install all the toolkits used in this project
 * Run this Command: python main.py
