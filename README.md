@@ -14,4 +14,4 @@ For example, people can enter "Pokemon Go" as the topic and "/Users/xxx/desktop"
 
 ### Note
 The search engine of Google is constantly revised, and this may cause the web-crawler to break down.  
-If the situation happens, please notify me, and I will fix the problems as soon as possible.
+If the situation happens, please notify me, so I will be able to fix the problems as soon as possible.
