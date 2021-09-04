@@ -3,7 +3,7 @@
 ### A web-crawler that can download Google search results as PDF files in your computer
 
 ## Task
-Build a web-crawler that can search and download any articles people are interested in as PDF files to a specific directory.  
+Build a web-crawler that searches and downloads articles people are interested in as PDF files to a specific directory.  
 For example, people can enter "Pokemon Go" as the topic and "/Users/xxx/desktop" as the directory, and then the articles related to Pokemon Go will be saved at their desktop.
 
 ### Run Locally
